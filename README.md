@@ -1,4 +1,10 @@
-# neumorphism-social-media
-tutorial based on the YouTube Video of Coding Artist Chanel - 16/01/2020
+# Neumorphism social media bar
 
-https://youtu.be/ida_oVKS9AU
+Social Media Bar with Neumorphism UI effects
+
+Tutorial based on the YouTube Video of Coding Artist Chanel - 16/01/2020
+
+Credits: Coding Artist YouTube Channel 
+	 https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ/about
+
+Source:  https://youtu.be/ida_oVKS9AU
